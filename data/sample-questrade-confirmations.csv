@@ -1,0 +1,5 @@
+﻿CurrencyCode_Group_Account,Trade Date,Settlement date,Trade #,Action,Quantity,Symbol,Description,TB,EX,Price,Gross amount,Comm,SEC fees,Interest amount,Net amount,Net amount (account currency)
+U.S. stocks and options - Account 1234567890,12-06-23,14-06-23,70662A,Buy,850,ABCD                   ,"Company ABCD, ETF NEW 2021",A,NY,2.286,"(1,943.19)",0.00,0.00,0.00,"(1,943.19)","(1,943.19)"
+U.S. stocks and options - Account 1234567890,13-06-23,15-06-23,71A850,Sell,850,ABCD                   ,"Company ABCD, ETF NEW 2021",A,NY,2.26,"1,921.00",(8.50),(0.02),0.00,"1,912.48","1,912.48"
+U.S. stocks and options - Account 1234567890,14-06-23,16-06-23,72EAED,Buy,75,ADIV                   ,"AMAZING DIVIDEND PAYING ETF",A,NY,24.919,"(1,868.93)",0.00,0.00,0.00,"(1,868.93)","(1,868.93)"
+U.S. stocks and options - Account 1234567890,12-07-23,14-07-23,000000,Sell,75,ADIV                   ,"AMAZING DIVIDEND PAYING ETF, AVG PRICE - ASK US FOR DETAILS",A,NY,28.806,"2,160.43",(4.95),(0.02),0.00,"2,155.46","2,155.46"
